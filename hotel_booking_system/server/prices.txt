@@ -1,0 +1,1 @@
+{'Economic': 400, 'Suit': 2000, 'King': 12500};{'Breakfast': 250}
